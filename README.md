@@ -1,5 +1,7 @@
 ### Hi there 👋
 :rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket::rocket:
+
+PLEASE DO NOT SEE THIS REPOSITORY IF YOU DON'T WANT YOUR EYES TO BLEED
 <!--
 **fpallitto/fpallitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
